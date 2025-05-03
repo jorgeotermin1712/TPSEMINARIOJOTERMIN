@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.4.19)  2 MAY 2025 19:28
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.4.19)  2 MAY 2025 21:12
  restricted system commands enabled.
 **pdf-TPSEMINARIOJOTERMIN.tex
 (./pdf-TPSEMINARIOJOTERMIN.tex
@@ -2523,6 +2523,6 @@ tribute, 143 glue_spec, 85 attribute_list, 6 write, 24 pdf_literal, 25 pdf_color
 stack nodes
    avail lists: 1:1,2:12,3:1,4:2,5:1,7:7,8:2
  76774 multiletter control sequences out of 65536+600000
- 69 fonts using 17252183 bytes
+ 69 fonts using 17252271 bytes
  117i,1n,123p,2369b,286s stack positions out of 10000i,1000n,20000p,200000b,200000s
 !  ==> Fatal error occurred, no output PDF file produced!
