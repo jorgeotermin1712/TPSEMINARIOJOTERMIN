@@ -1,3 +1,37 @@
+% referencias
+\addbibresource{./files/gbTeXbib-TPSEMINARIOJOTERMIN.bib}
+
+% glosarios
+\input{./files/gbTeXglo-TPSEMINARIOJOTERMIN.tex}
+
+\ifPDF
+% separata de capítulos solo en pdf de pantalla
+\input{./files/gbTeXseparata-TPSEMINARIOJOTERMIN.tex}
+% control de inconsistencias de principio y fin de linea
+\usepackage[hyphenation,homeoarchy,homeoarchywordcolor=orange, homeoarchycharcolor=orange,draft]{impnattypo}
+\usepackage[allcolors=magenta, colorlinks, unicode]{hyperref}
+\usepackage{easyReview}
+\usepackage{hyperxmp}
+\input{./files/gbTeXmeta-TPSEMINARIOJOTERMIN.tex}
+	\else
+	\ifBNPDF
+	\usepackage[width=18truecm,height=25.5truecm,cam,center]{crop}
+	\newcommand*\infofont[1]{\sf{\footnotesize #1 (alberto.alejandro.moyano@gmail.com)}}
+	\crop[font=infofont]
+	\usepackage[hidelinks, unicode]{hyperref}
+	\usepackage{hyperxmp}
+	\input{./files/gbTeXmeta-TPSEMINARIOJOTERMIN.tex}
+		\else
+		\ifPNGEPUB
+		\usepackage[hidelinks, unicode]{hyperref}
+			\else
+			\ifHTMLEPUB
+			\usepackage[allcolors=blue,colorlinks,hyperindex=true,unicode]{hyperref}
+			\fi
+		\fi
+	\fi
+\fi
+
 \begin{document}
 \frontmatter
 
@@ -555,8 +589,6 @@ Se considera oportuno, en tal sentido, insertar en este espacio la distribución
 Gráfico 2: Distribución de las ediciones por años y editoriales
 \end{quote}
 
-\protect\hypertarget{_Toc50463143}{}{}
-
 \chapter{2. Estado de la cuestión y consideraciones teórico-metodológicas}
 
 \section{2. 1. Antecedentes sobre la temática}
@@ -901,8 +933,7 @@ En la fase en la que la publicidad se impone como publicidad políticamente acti
 
 Habermas describe el proceso de sustitución de los salones de tertulias por el debate en la prensa política o prensa de escritores. Estos escritores, o mejor aún escribas del empresario políticamente activo, se correspondían en general a sectores plebeyos letrados de la incipiente ciudad moderna, que hallaban en las redacciones periodísticas un mecanismo de ascenso social, recursos económicos y, en muchos casos, acceso a una imprenta donde acercar sus trabajos literarios. A nuestro entender este proceso demandó un tiempo prolongado, entre principio del siglo XVIII y finales del XIX dando lugar, por un lado, al desarrollo de la autoconciencia de la autonomía periodística y su lugar estructural en el sistema republicano y, por otro, su contraparte: el desarrollo de audiencias masivas crédulas en la veracidad de las informaciones provistas por los medios.\footnote{Este fenómeno habilitó otro problema fundamental, -según Habermas- a lo largo del siglo XX, capaz de poner en crisis la composición misma de la esfera pública como espacio de convergencia y construcción de opinión pública resultante de un largo proceso de consenso. La aparición de una \emph{publicity} sistemática reconfigura la noción misma de destinatario de la comunicación periodística. Si el reclamo publicitario se dirigía ``a las personas privadas en tanto susceptibles de convertirse en consumidores, las \emph{public relations} se dirigen a la ``opinión pública'', a las personas privadas como público y no como ``consumidores''. La \emph{publicity} (relaciones públicas) se transforma en una actividad tan permanente y sistemática que la esfera pública entra en riesgo de dejar de ser un espacio de construcción de consensos (publicidad burguesa) para convertirse en un espacio de lucha de intereses, causando, en los términos metafóricos propuestos por Habermas, una suerte de ``refeudalización de la esfera pública''. (Habermas, 1994: 209 y ss.).}
 
-\textbf{\hfill\break
-}\protect\hypertarget{_Toc50463149}{}{}\textbf{3. Descripción del campo periodístico en la Argentina, 2009 - 2015}
+\chapter{3. Descripción del campo periodístico en la Argentina, 2009 - 2015}
 
 \section{3. 1. Los periodistas y el fenómeno editorial}
 
@@ -1144,7 +1175,7 @@ Como ya se señaló, esta es una categoría que introduce Bourdieu, a la que le 
 
 Si bien esta categoría de \emph{periodista intelectual}, como el resto de las categorías de la clasificación, es preexistentes al conflicto 2009-2015, este le dio una particular relevancia. Quienes la integran se ubicaron, mayoritariamente, en el polo antigubernamental. Entre los más significativos podemos mencionar a Marcos Novaro, Marcelo Birmajer, Santiago Kovadloff, como descalificadores del gobierno; y a Dante Palma, Horacio González y Cynthia Ottaviano, entre los progubernamentales (solo por mencionar algunos ejemplos de medios nacionales, ya que el fenómeno se reproducía, aunque con menor intensidad, en las provincias).
 
-\protect\hypertarget{_Toc50463156}{}{}\textbf{4. Análisis de Contenido del \emph{Corpus} Bibliográfico}
+\chapter{4. Análisis de Contenido del \emph{Corpus} Bibliográfico}
 
 \section{4.1. Corpus de Análisis}
 
