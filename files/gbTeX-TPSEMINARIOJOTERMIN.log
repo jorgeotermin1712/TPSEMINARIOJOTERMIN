@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.4.19)  17 MAY 2025 19:40
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.4.19)  17 MAY 2025 19:59
  restricted system commands enabled.
 **pdf-TPSEMINARIOJOTERMIN.tex
 (./pdf-TPSEMINARIOJOTERMIN.tex
@@ -4303,7 +4303,7 @@ olorstack nodes
    avail lists: 1:7,2:285,3:71,4:1352,5:1013,6:12,7:5017,8:136,9:129,10:29,11:72
 2
  86746 multiletter control sequences out of 65536+600000
- 98 fonts using 26500399 bytes
+ 98 fonts using 26500331 bytes
  117i,7n,123p,6182b,2668s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 warning  (pdf backend): unreferenced destination with name '_bookmark8'
@@ -4316,7 +4316,7 @@ ist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Regular.otf></usr/sha
 re/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Bol
 d.otf></usr/share/texlive/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondense
 d-SemiBold.otf>
-Output written on pdf-TPSEMINARIOJOTERMIN.pdf (181 pages, 686880 bytes).
+Output written on pdf-TPSEMINARIOJOTERMIN.pdf (181 pages, 686875 bytes).
 
 PDF statistics: 1308 PDF objects out of 1440 (max. 8388607)
  991 compressed objects within 10 object streams
