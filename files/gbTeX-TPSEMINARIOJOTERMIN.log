@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.4.19)  17 MAY 2025 13:58
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.4.19)  17 MAY 2025 15:35
  restricted system commands enabled.
 **pdf-TPSEMINARIOJOTERMIN.tex
 (./pdf-TPSEMINARIOJOTERMIN.tex
@@ -4338,17 +4338,17 @@ Package logreq Info: Writing requests to 'pdf-TPSEMINARIOJOTERMIN.run.xml'.
 
 Here is how much of LuaTeX's memory you used:
  66778 strings out of 476553
- 6947275,2848258 words of node,token memory allocated
- 6107320 words of node memory still in use:
-   13174 hlist, 205 vlist, 4016 rule, 184 ins, 80855 disc, 4223 local_par, 311 m
-ath, 95495 glue, 84423 kern, 10186 penalty, 1308 margin_kern, 513289 glyph, 1084
-53 attribute, 8577 glue_spec, 15505 attribute_list, 2 shape, 3 write, 34 pdf_lit
+ 6947203,2848258 words of node,token memory allocated
+ 6107654 words of node memory still in use:
+   13177 hlist, 205 vlist, 4016 rule, 184 ins, 80861 disc, 4229 local_par, 311 m
+ath, 95499 glue, 84427 kern, 10190 penalty, 1309 margin_kern, 513296 glyph, 1084
+67 attribute, 8589 glue_spec, 15507 attribute_list, 2 shape, 3 write, 34 pdf_lit
 eral, 207 pdf_start_link, 228 pdf_end_link, 347 pdf_dest, 163 pdf_action, 3928 p
 df_colorstack nodes
-   avail lists: 1:8,2:285,3:72,4:1030,5:988,6:11,7:4997,8:136,9:128,10:28,11:709
-
+   avail lists: 1:10,2:285,3:72,4:1030,5:988,6:11,7:4997,8:136,9:128,10:28,11:70
+9
  86747 multiletter control sequences out of 65536+600000
- 98 fonts using 26500331 bytes
+ 98 fonts using 26500467 bytes
  117i,7n,123p,6182b,2684s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 warning  (pdf backend): unreferenced destination with name '_bookmark8'
@@ -4361,7 +4361,7 @@ ve/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondensed-Regular.otf></usr/sha
 re/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Bol
 d.otf></usr/share/texlive/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondense
 d-SemiBold.otf>
-Output written on pdf-TPSEMINARIOJOTERMIN.pdf (185 pages, 687163 bytes).
+Output written on pdf-TPSEMINARIOJOTERMIN.pdf (185 pages, 687139 bytes).
 
 PDF statistics: 1331 PDF objects out of 1440 (max. 8388607)
  1008 compressed objects within 11 object streams
