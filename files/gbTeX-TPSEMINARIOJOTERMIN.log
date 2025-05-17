@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.4.19)  17 MAY 2025 18:18
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.4.19)  17 MAY 2025 18:27
  restricted system commands enabled.
 **pdf-TPSEMINARIOJOTERMIN.tex
 (./pdf-TPSEMINARIOJOTERMIN.tex
@@ -4323,7 +4323,7 @@ colorstack nodes
    avail lists: 1:9,2:285,3:72,4:1025,5:988,6:11,7:4997,8:136,9:128,10:28,11:709
 
  86746 multiletter control sequences out of 65536+600000
- 98 fonts using 26500331 bytes
+ 98 fonts using 26500399 bytes
  117i,7n,123p,6182b,2678s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 warning  (pdf backend): unreferenced destination with name '_bookmark8'
