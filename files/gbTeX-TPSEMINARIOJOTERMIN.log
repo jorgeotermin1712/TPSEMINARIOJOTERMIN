@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.4.19)  17 MAY 2025 17:04
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.4.19)  17 MAY 2025 17:14
  restricted system commands enabled.
 **pdf-TPSEMINARIOJOTERMIN.tex
 (./pdf-TPSEMINARIOJOTERMIN.tex
@@ -3054,31 +3054,21 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/b/n' will be
 (Font)              scaled to size 9.69757pt on input line 607.
+LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/b/n' will be
+(Font)              scaled to size 11.63708pt on input line 607.
+LaTeX Info: Redefining \. on input line 621.
+LaTeX Info: Redefining \% on input line 621.
+LaTeX Info: Redefining \. on input line 621.
+LaTeX Info: Redefining \% on input line 621.
  [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
-] [2
-
 ]
-Package biblatex Info: Resetting trackers on input line 607.
-LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
-(Font)              scaled to size 16.99188pt on input line 607.
-LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
-(Font)              scaled to size 14.12686pt on input line 607.
-LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
-(Font)              scaled to size 16.95224pt on input line 607.
-LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/b/n' will be
-(Font)              scaled to size 11.63708pt on input line 617.
-LaTeX Info: Redefining \. on input line 622.
-LaTeX Info: Redefining \% on input line 622.
-LaTeX Info: Redefining \. on input line 622.
-LaTeX Info: Redefining \% on input line 622.
- [3]
 LaTeX Info: Redefining \. on input line 625.
 LaTeX Info: Redefining \% on input line 625.
 LaTeX Info: Redefining \. on input line 625.
 LaTeX Info: Redefining \% on input line 625.
- [4]
+ [2]
 \c@pagesLTS.roman.1.local.count=\count611
 \c@pagesLTS.pnc.arabic=\count612
 \c@pagesLTS.double.arabic=\count613
@@ -3086,8 +3076,14 @@ LaTeX Info: Redefining \% on input line 625.
 
 Capítulo 1.
 Package biblatex Info: Resetting trackers on input line 627.
+LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
+(Font)              scaled to size 16.99188pt on input line 627.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/sc' will be
 (Font)              scaled to size 16.99188pt on input line 627.
+LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
+(Font)              scaled to size 14.12686pt on input line 627.
+LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
+(Font)              scaled to size 16.95224pt on input line 627.
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/it' will be
 (Font)              scaled to size 9.81033pt on input line 640.
 LaTeX Info: Redefining \. on input line 645.
@@ -4303,7 +4299,7 @@ L3 programming layer <2024-01-22>
  ***********
 Package rerunfilecheck Info: File `pdf-TPSEMINARIOJOTERMIN.out' has not changed
 .
-(rerunfilecheck)             Checksum: DEFE5AE54DDCC3E911601DB841DCDFE5;1869.
+(rerunfilecheck)             Checksum: 7CDC87C99D4046E976C330B1318C5ADE;1750.
 Package logreq Info: Writing requests to 'pdf-TPSEMINARIOJOTERMIN.run.xml'.
 
 \openout1 = pdf-TPSEMINARIOJOTERMIN.run.xml
@@ -4316,17 +4312,17 @@ Package logreq Info: Writing requests to 'pdf-TPSEMINARIOJOTERMIN.run.xml'.
 ### bottom level
 
 Here is how much of LuaTeX's memory you used:
- 66778 strings out of 476553
- 6947315,2848258 words of node,token memory allocated
- 5980161 words of node memory still in use:
-   11175 hlist, 51 vlist, 3368 rule, 185 ins, 80200 disc, 4059 local_par, 313 ma
-th, 93043 glue, 82958 kern, 9028 penalty, 1152 margin_kern, 507237 glyph, 99682 
-attribute, 8453 glue_spec, 14252 attribute_list, 2 shape, 3 write, 34 pdf_litera
-l, 210 pdf_start_link, 230 pdf_end_link, 348 pdf_dest, 163 pdf_action, 3377 pdf_
+ 66775 strings out of 476553
+ 6947297,2848258 words of node,token memory allocated
+ 5980457 words of node memory still in use:
+   11179 hlist, 51 vlist, 3372 rule, 185 ins, 80200 disc, 4059 local_par, 313 ma
+th, 93047 glue, 82958 kern, 9028 penalty, 1152 margin_kern, 507249 glyph, 99717 
+attribute, 8453 glue_spec, 14257 attribute_list, 2 shape, 3 write, 34 pdf_litera
+l, 210 pdf_start_link, 230 pdf_end_link, 348 pdf_dest, 163 pdf_action, 3385 pdf_
 colorstack nodes
-   avail lists: 1:10,2:285,3:72,4:1026,5:988,6:11,7:4997,8:136,9:128,10:28,11:70
-9
- 86747 multiletter control sequences out of 65536+600000
+   avail lists: 1:8,2:285,3:72,4:1027,5:988,6:11,7:4997,8:136,9:128,10:28,11:709
+
+ 86746 multiletter control sequences out of 65536+600000
  98 fonts using 26500331 bytes
  117i,7n,123p,6182b,2678s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
@@ -4335,15 +4331,15 @@ warning  (pdf backend): unreferenced destination with name '_bookmark8'
 Serif-BoldItalic.otf></usr/share/texlive/texmf-dist/fonts/opentype/public/libert
 inus-fonts/LibertinusSerif-Italic.otf></usr/share/texlive/texmf-dist/fonts/opent
 ype/ibm/plex/IBMPlexSansCondensed-Italic.otf></usr/share/texlive/texmf-dist/font
-s/opentype/public/libertinus-fonts/LibertinusSerif-Regular.otf></usr/share/texli
-ve/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondensed-Regular.otf></usr/sha
+s/opentype/ibm/plex/IBMPlexSansCondensed-Regular.otf></usr/share/texlive/texmf-d
+ist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Regular.otf></usr/sha
 re/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Bol
 d.otf></usr/share/texlive/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondense
 d-SemiBold.otf>
-Output written on pdf-TPSEMINARIOJOTERMIN.pdf (185 pages, 682944 bytes).
+Output written on pdf-TPSEMINARIOJOTERMIN.pdf (183 pages, 682082 bytes).
 
-PDF statistics: 1332 PDF objects out of 1440 (max. 8388607)
- 1009 compressed objects within 11 object streams
- 345 named destinations out of 1000 (max. 131072)
- 317 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 1321 PDF objects out of 1440 (max. 8388607)
+ 1001 compressed objects within 11 object streams
+ 343 named destinations out of 1000 (max. 131072)
+ 309 words of extra memory for PDF output out of 10000 (max. 100000000)
 
