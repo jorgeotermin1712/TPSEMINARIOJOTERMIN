@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.4.19)  17 MAY 2025 17:14
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.4.19)  17 MAY 2025 18:03
  restricted system commands enabled.
 **pdf-TPSEMINARIOJOTERMIN.tex
 (./pdf-TPSEMINARIOJOTERMIN.tex
@@ -4313,17 +4313,17 @@ Package logreq Info: Writing requests to 'pdf-TPSEMINARIOJOTERMIN.run.xml'.
 
 Here is how much of LuaTeX's memory you used:
  66775 strings out of 476553
- 6947297,2848258 words of node,token memory allocated
- 5980457 words of node memory still in use:
+ 6947314,2848258 words of node,token memory allocated
+ 5980707 words of node memory still in use:
    11179 hlist, 51 vlist, 3372 rule, 185 ins, 80200 disc, 4059 local_par, 313 ma
-th, 93047 glue, 82958 kern, 9028 penalty, 1152 margin_kern, 507249 glyph, 99717 
-attribute, 8453 glue_spec, 14257 attribute_list, 2 shape, 3 write, 34 pdf_litera
+th, 93057 glue, 82958 kern, 9034 penalty, 1152 margin_kern, 507247 glyph, 99794 
+attribute, 8453 glue_spec, 14268 attribute_list, 2 shape, 3 write, 34 pdf_litera
 l, 210 pdf_start_link, 230 pdf_end_link, 348 pdf_dest, 163 pdf_action, 3385 pdf_
 colorstack nodes
-   avail lists: 1:8,2:285,3:72,4:1027,5:988,6:11,7:4997,8:136,9:128,10:28,11:709
+   avail lists: 1:9,2:285,3:72,4:1025,5:988,6:11,7:4997,8:136,9:128,10:28,11:709
 
  86746 multiletter control sequences out of 65536+600000
- 98 fonts using 26500331 bytes
+ 98 fonts using 26500263 bytes
  117i,7n,123p,6182b,2678s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 warning  (pdf backend): unreferenced destination with name '_bookmark8'
@@ -4336,7 +4336,7 @@ ist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Regular.otf></usr/sha
 re/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Bol
 d.otf></usr/share/texlive/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondense
 d-SemiBold.otf>
-Output written on pdf-TPSEMINARIOJOTERMIN.pdf (183 pages, 682082 bytes).
+Output written on pdf-TPSEMINARIOJOTERMIN.pdf (183 pages, 682097 bytes).
 
 PDF statistics: 1321 PDF objects out of 1440 (max. 8388607)
  1001 compressed objects within 11 object streams
