@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.4.19)  17 MAY 2025 20:03
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.4.19)  17 MAY 2025 21:07
  restricted system commands enabled.
 **pdf-TPSEMINARIOJOTERMIN.tex
 (./pdf-TPSEMINARIOJOTERMIN.tex
@@ -3754,11 +3754,41 @@ LaTeX Info: Redefining \% on input line 2247.
 LaTeX Info: Redefining \. on input line 2247.
 LaTeX Info: Redefining \% on input line 2247.
  [103]
+LaTeX Info: Redefining \. on input line 2321.
+LaTeX Info: Redefining \% on input line 2321.
+LaTeX Info: Redefining \. on input line 2321.
+LaTeX Info: Redefining \% on input line 2321.
+ [104]
+LaTeX Info: Redefining \. on input line 2321.
+LaTeX Info: Redefining \% on input line 2321.
+LaTeX Info: Redefining \. on input line 2321.
+LaTeX Info: Redefining \% on input line 2321.
+ [105]
+LaTeX Info: Redefining \. on input line 2321.
+LaTeX Info: Redefining \% on input line 2321.
+LaTeX Info: Redefining \. on input line 2321.
+LaTeX Info: Redefining \% on input line 2321.
+ [106]
+LaTeX Info: Redefining \. on input line 2321.
+LaTeX Info: Redefining \% on input line 2321.
+LaTeX Info: Redefining \. on input line 2321.
+LaTeX Info: Redefining \% on input line 2321.
+ [107]
+LaTeX Info: Redefining \. on input line 2321.
+LaTeX Info: Redefining \% on input line 2321.
+LaTeX Info: Redefining \. on input line 2321.
+LaTeX Info: Redefining \% on input line 2321.
+ [108]
+LaTeX Info: Redefining \. on input line 2321.
+LaTeX Info: Redefining \% on input line 2321.
+LaTeX Info: Redefining \. on input line 2321.
+LaTeX Info: Redefining \% on input line 2321.
+ [109]
 ! Undefined control sequence.
 <recently read> \csq@font 
           
-l.2255 ...ampo, cuenta de que era una muy buena ley}
-                                                   (Capasso, 2013: 121).\foo...
+l.2321 ...oA este gobierno le hace falta un Balbín}
+                                                  . Mientras diputados y sen...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -3772,48 +3802,9 @@ See the csquotes package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2255 ...ampo, cuenta de que era una muy buena ley}
-                                                   (Capasso, 2013: 121).\foo...
-Cannot close any quote. The current level is 0.
-
-LaTeX Info: Redefining \. on input line 2259.
-LaTeX Info: Redefining \% on input line 2259.
-LaTeX Info: Redefining \. on input line 2259.
-LaTeX Info: Redefining \% on input line 2259.
-[104]
-LaTeX Info: Redefining \. on input line 2269.
-LaTeX Info: Redefining \% on input line 2269.
-LaTeX Info: Redefining \. on input line 2269.
-LaTeX Info: Redefining \% on input line 2269.
- [105]
-LaTeX Info: Redefining \. on input line 2278.
-LaTeX Info: Redefining \% on input line 2278.
-LaTeX Info: Redefining \. on input line 2278.
-LaTeX Info: Redefining \% on input line 2278.
- [106]
-LaTeX Info: Redefining \. on input line 2289.
-LaTeX Info: Redefining \% on input line 2289.
-LaTeX Info: Redefining \. on input line 2289.
-LaTeX Info: Redefining \% on input line 2289.
- [107]
-LaTeX Info: Redefining \. on input line 2300.
-LaTeX Info: Redefining \% on input line 2300.
-LaTeX Info: Redefining \. on input line 2300.
-LaTeX Info: Redefining \% on input line 2300.
- [108]
-LaTeX Info: Redefining \. on input line 2311.
-LaTeX Info: Redefining \% on input line 2311.
-LaTeX Info: Redefining \. on input line 2311.
-LaTeX Info: Redefining \% on input line 2311.
- [109]
-! Extra }, or forgotten \endgroup.
 l.2321 ...oA este gobierno le hace falta un Balbín}
                                                   . Mientras diputados y sen...
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
+Cannot close any quote. The current level is 0.
 
 ! Extra }, or forgotten \endgroup.
 l.2321 ...detrás de ese pretendidopuesta en escena}
@@ -4293,18 +4284,18 @@ Package logreq Info: Writing requests to 'pdf-TPSEMINARIOJOTERMIN.run.xml'.
 
 Here is how much of LuaTeX's memory you used:
  66773 strings out of 476553
- 6947315,2848258 words of node,token memory allocated
- 5608680 words of node memory still in use:
-   11783 hlist, 51 vlist, 3339 rule, 173 ins, 74856 disc, 4633 local_par, 301 ma
-th, 89504 glue, 68551 kern, 9937 penalty, 909 margin_kern, 474606 glyph, 99521 a
+ 6947322,2848258 words of node,token memory allocated
+ 5609439 words of node memory still in use:
+   11783 hlist, 51 vlist, 3339 rule, 173 ins, 74873 disc, 4633 local_par, 301 ma
+th, 89510 glue, 68566 kern, 9937 penalty, 909 margin_kern, 474671 glyph, 99521 a
 ttribute, 9081 glue_spec, 14229 attribute_list, 1 shape, 3 write, 32 pdf_literal
 , 205 pdf_start_link, 224 pdf_end_link, 336 pdf_dest, 163 pdf_action, 3298 pdf_c
 olorstack nodes
-   avail lists: 1:7,2:285,3:71,4:1352,5:1013,6:12,7:5017,8:136,9:129,10:29,11:72
+   avail lists: 1:7,2:285,3:71,4:1351,5:1013,6:12,7:5017,8:136,9:129,10:29,11:72
 2
  86746 multiletter control sequences out of 65536+600000
- 98 fonts using 26500535 bytes
- 117i,7n,123p,6182b,2668s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 98 fonts using 26500467 bytes
+ 117i,7n,123p,6186b,2668s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 warning  (pdf backend): unreferenced destination with name '_bookmark8'
 </usr/share/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinus
@@ -4316,7 +4307,7 @@ ist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Regular.otf></usr/sha
 re/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Bol
 d.otf></usr/share/texlive/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondense
 d-SemiBold.otf>
-Output written on pdf-TPSEMINARIOJOTERMIN.pdf (181 pages, 686801 bytes).
+Output written on pdf-TPSEMINARIOJOTERMIN.pdf (181 pages, 686767 bytes).
 
 PDF statistics: 1308 PDF objects out of 1440 (max. 8388607)
  991 compressed objects within 10 object streams
