@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.4.19)  17 MAY 2025 19:59
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.4.19)  17 MAY 2025 20:03
  restricted system commands enabled.
 **pdf-TPSEMINARIOJOTERMIN.tex
 (./pdf-TPSEMINARIOJOTERMIN.tex
@@ -4293,17 +4293,17 @@ Package logreq Info: Writing requests to 'pdf-TPSEMINARIOJOTERMIN.run.xml'.
 
 Here is how much of LuaTeX's memory you used:
  66773 strings out of 476553
- 6947320,2848258 words of node,token memory allocated
- 5608690 words of node memory still in use:
-   11783 hlist, 51 vlist, 3339 rule, 173 ins, 74855 disc, 4633 local_par, 301 ma
-th, 89506 glue, 68551 kern, 9937 penalty, 909 margin_kern, 474607 glyph, 99521 a
+ 6947315,2848258 words of node,token memory allocated
+ 5608680 words of node memory still in use:
+   11783 hlist, 51 vlist, 3339 rule, 173 ins, 74856 disc, 4633 local_par, 301 ma
+th, 89504 glue, 68551 kern, 9937 penalty, 909 margin_kern, 474606 glyph, 99521 a
 ttribute, 9081 glue_spec, 14229 attribute_list, 1 shape, 3 write, 32 pdf_literal
 , 205 pdf_start_link, 224 pdf_end_link, 336 pdf_dest, 163 pdf_action, 3298 pdf_c
 olorstack nodes
    avail lists: 1:7,2:285,3:71,4:1352,5:1013,6:12,7:5017,8:136,9:129,10:29,11:72
 2
  86746 multiletter control sequences out of 65536+600000
- 98 fonts using 26500331 bytes
+ 98 fonts using 26500535 bytes
  117i,7n,123p,6182b,2668s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 warning  (pdf backend): unreferenced destination with name '_bookmark8'
@@ -4316,7 +4316,7 @@ ist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Regular.otf></usr/sha
 re/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Bol
 d.otf></usr/share/texlive/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondense
 d-SemiBold.otf>
-Output written on pdf-TPSEMINARIOJOTERMIN.pdf (181 pages, 686875 bytes).
+Output written on pdf-TPSEMINARIOJOTERMIN.pdf (181 pages, 686801 bytes).
 
 PDF statistics: 1308 PDF objects out of 1440 (max. 8388607)
  991 compressed objects within 10 object streams
