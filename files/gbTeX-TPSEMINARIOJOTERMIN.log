@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.4.19)  25 MAY 2025 17:40
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.4.19)  25 MAY 2025 17:46
  restricted system commands enabled.
 **pdf-TPSEMINARIOJOTERMIN.tex
 (./pdf-TPSEMINARIOJOTERMIN.tex
@@ -4221,17 +4221,17 @@ Package logreq Info: Writing requests to 'pdf-TPSEMINARIOJOTERMIN.run.xml'.
 
 Here is how much of LuaTeX's memory you used:
  66791 strings out of 476553
- 6947292,2848258 words of node,token memory allocated
- 5644904 words of node memory still in use:
+ 6947215,2848258 words of node,token memory allocated
+ 5644855 words of node memory still in use:
    11994 hlist, 65 vlist, 3399 rule, 173 ins, 1 adjust, 76395 disc, 4661 local_p
-ar, 315 math, 90983 glue, 57337 kern, 10064 penalty, 953 margin_kern, 483451 gly
+ar, 315 math, 90981 glue, 57337 kern, 10064 penalty, 953 margin_kern, 483446 gly
 ph, 99339 attribute, 9096 glue_spec, 14203 attribute_list, 3 write, 38 pdf_liter
 al, 209 pdf_start_link, 228 pdf_end_link, 336 pdf_dest, 166 pdf_action, 3290 pdf
 _colorstack nodes
-   avail lists: 1:10,2:404,3:84,4:1310,5:327,6:18,7:5114,8:136,9:140,10:31,11:73
+   avail lists: 1:11,2:404,3:84,4:1311,5:327,6:18,7:5114,8:136,9:140,10:31,11:73
 0
  86760 multiletter control sequences out of 65536+600000
- 98 fonts using 26500399 bytes
+ 98 fonts using 26500467 bytes
  117i,8n,123p,5940b,2668s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 warning  (pdf backend): unreferenced destination with name '_bookmark8'
@@ -4244,7 +4244,7 @@ ve/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondensed-Regular.otf></usr/sha
 re/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Bol
 d.otf></usr/share/texlive/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondense
 d-SemiBold.otf>
-Output written on pdf-TPSEMINARIOJOTERMIN.pdf (183 pages, 693231 bytes).
+Output written on pdf-TPSEMINARIOJOTERMIN.pdf (183 pages, 693227 bytes).
 
 PDF statistics: 1325 PDF objects out of 1440 (max. 8388607)
  1003 compressed objects within 11 object streams
