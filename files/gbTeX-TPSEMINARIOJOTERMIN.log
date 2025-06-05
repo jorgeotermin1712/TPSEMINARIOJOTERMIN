@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.4.19)  4 JUN 2025 19:00
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.4.19)  4 JUN 2025 20:47
  restricted system commands enabled.
 **pdf-TPSEMINARIOJOTERMIN.tex
 (./pdf-TPSEMINARIOJOTERMIN.tex
@@ -4175,18 +4175,29 @@ LaTeX Info: Redefining \% on input line 2847.
 LaTeX Info: Redefining \. on input line 2847.
 LaTeX Info: Redefining \% on input line 2847.
  [176]
+LaTeX Info: Redefining \. on input line 2865.
+LaTeX Info: Redefining \% on input line 2865.
+LaTeX Info: Redefining \. on input line 2865.
+LaTeX Info: Redefining \% on input line 2865.
 
+[177] [178
+
+]
+Package biblatex Info: Resetting trackers on input line 2865.
+LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/sc' will be
+(Font)              scaled to size 10.61993pt on input line 2865.
+ 
 AED: pageslts setting LastPage 
-LaTeX Info: Redefining \. on input line 2865.
-LaTeX Info: Redefining \% on input line 2865.
-LaTeX Info: Redefining \. on input line 2865.
-LaTeX Info: Redefining \% on input line 2865.
+LaTeX Info: Redefining \. on input line 2867.
+LaTeX Info: Redefining \% on input line 2867.
+LaTeX Info: Redefining \. on input line 2867.
+LaTeX Info: Redefining \% on input line 2867.
 (/usr/share/texlive/texmf-dist/tex/generic/stringenc/se-utf32be.def
 File: se-utf32be.def 2019/11/29 v1.12 stringenc: UTF-32BE
 )
 (/usr/share/texlive/texmf-dist/tex/generic/stringenc/se-pdfdoc.def
 File: se-pdfdoc.def 2019/11/29 v1.12 stringenc: PDFDocEncoding
-) [177]
+) [179]
 
 Package glossaries Warning: No \printnoidxglossary or \printnoidxglossaries
  found. (Remove \makenoidxglossaries if you don't want any glossaries.)
@@ -4220,24 +4231,21 @@ Package logreq Info: Writing requests to 'pdf-TPSEMINARIOJOTERMIN.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 67007 strings out of 476553
+ 67016 strings out of 476553
  6947228,2848258 words of node,token memory allocated
- 5639205 words of node memory still in use:
-   11994 hlist, 65 vlist, 3399 rule, 173 ins, 1 adjust, 76394 disc, 4659 local_p
-ar, 315 math, 90975 glue, 57310 kern, 10063 penalty, 953 margin_kern, 483391 gly
-ph, 98030 attribute, 9092 glue_spec, 14016 attribute_list, 11 write, 38 pdf_lite
-ral, 127 pdf_start_link, 130 pdf_end_link, 336 pdf_dest, 111 pdf_action, 3112 pd
+ 5643275 words of node memory still in use:
+   12006 hlist, 65 vlist, 3407 rule, 173 ins, 1 adjust, 76438 disc, 4666 local_p
+ar, 315 math, 91029 glue, 57344 kern, 10079 penalty, 954 margin_kern, 483667 gly
+ph, 98324 attribute, 9108 glue_spec, 14058 attribute_list, 17 write, 38 pdf_lite
+ral, 129 pdf_start_link, 132 pdf_end_link, 336 pdf_dest, 112 pdf_action, 3120 pd
 f_colorstack nodes
-   avail lists: 1:14,2:404,3:84,4:1343,5:327,6:18,7:5114,8:136,9:140,10:32,11:73
-0
- 86975 multiletter control sequences out of 65536+600000
- 98 fonts using 26500603 bytes
+   avail lists: 1:14,2:356,3:60,4:1334,5:277,6:11,7:4779,8:136,9:116,10:32,11:68
+6
+ 86981 multiletter control sequences out of 65536+600000
+ 99 fonts using 26923127 bytes
  117i,8n,123p,5940b,2668s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 warning  (pdf backend): unreferenced destination with name '_bookmark8'
-
-warning  (pdf backend): unreferenced destination with name 'cite.0@@6960-FRANCOI
-SE2015'
 </usr/share/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinus
 Serif-BoldItalic.otf></usr/share/texlive/texmf-dist/fonts/opentype/ibm/plex/IBMP
 lexSansCondensed-Italic.otf></usr/share/texlive/texmf-dist/fonts/opentype/public
@@ -4247,10 +4255,10 @@ ve/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondensed-Regular.otf></usr/sha
 re/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Bol
 d.otf></usr/share/texlive/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondense
 d-SemiBold.otf>
-Output written on pdf-TPSEMINARIOJOTERMIN.pdf (183 pages, 688464 bytes).
+Output written on pdf-TPSEMINARIOJOTERMIN.pdf (185 pages, 691189 bytes).
 
-PDF statistics: 1246 PDF objects out of 1440 (max. 8388607)
- 924 compressed objects within 10 object streams
- 346 named destinations out of 1000 (max. 131072)
+PDF statistics: 1257 PDF objects out of 1440 (max. 8388607)
+ 931 compressed objects within 10 object streams
+ 349 named destinations out of 1000 (max. 131072)
  317 words of extra memory for PDF output out of 10000 (max. 100000000)
 
