@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.4.19)  6 JUN 2025 20:49
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.4.19)  6 JUN 2025 21:41
  restricted system commands enabled.
 **pdf-TPSEMINARIOJOTERMIN.tex
 (./pdf-TPSEMINARIOJOTERMIN.tex
@@ -4251,18 +4251,18 @@ Package logreq Info: Writing requests to 'pdf-TPSEMINARIOJOTERMIN.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 67079 strings out of 476553
- 6947321,2848258 words of node,token memory allocated
- 5649952 words of node memory still in use:
-   11998 hlist, 65 vlist, 3406 rule, 173 ins, 1 adjust, 76529 disc, 4663 local_p
-ar, 315 math, 91068 glue, 57403 kern, 10082 penalty, 955 margin_kern, 484218 gly
-ph, 98723 attribute, 9119 glue_spec, 14115 attribute_list, 29 write, 38 pdf_lite
-ral, 145 pdf_start_link, 148 pdf_end_link, 336 pdf_dest, 121 pdf_action, 3142 pd
+ 67093 strings out of 476553
+ 6947304,2848258 words of node,token memory allocated
+ 5657776 words of node memory still in use:
+   12030 hlist, 65 vlist, 3406 rule, 173 ins, 1 adjust, 76596 disc, 4677 local_p
+ar, 315 math, 91162 glue, 57429 kern, 10112 penalty, 959 margin_kern, 484640 gly
+ph, 99619 attribute, 9151 glue_spec, 14243 attribute_list, 54 write, 38 pdf_lite
+ral, 169 pdf_start_link, 172 pdf_end_link, 336 pdf_dest, 133 pdf_action, 3198 pd
 f_colorstack nodes
-   avail lists: 1:12,2:431,3:68,4:1300,5:174,6:15,7:4049,8:136,9:96,10:31,11:590
-
- 87014 multiletter control sequences out of 65536+600000
- 99 fonts using 26922991 bytes
+   avail lists: 1:10,2:431,3:104,4:1259,5:115,6:25,7:3484,8:136,9:124,10:31,11:5
+16
+ 87026 multiletter control sequences out of 65536+600000
+ 99 fonts using 26923059 bytes
  117i,8n,123p,5940b,2668s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 warning  (pdf backend): unreferenced destination with name '_bookmark8'
@@ -4275,10 +4275,10 @@ ve/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondensed-Regular.otf></usr/sha
 re/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Bol
 d.otf></usr/share/texlive/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondense
 d-SemiBold.otf>
-Output written on pdf-TPSEMINARIOJOTERMIN.pdf (187 pages, 694022 bytes).
+Output written on pdf-TPSEMINARIOJOTERMIN.pdf (187 pages, 695977 bytes).
 
-PDF statistics: 1285 PDF objects out of 1440 (max. 8388607)
- 950 compressed objects within 10 object streams
- 353 named destinations out of 1000 (max. 131072)
+PDF statistics: 1300 PDF objects out of 1440 (max. 8388607)
+ 959 compressed objects within 10 object streams
+ 355 named destinations out of 1000 (max. 131072)
  333 words of extra memory for PDF output out of 10000 (max. 100000000)
 
