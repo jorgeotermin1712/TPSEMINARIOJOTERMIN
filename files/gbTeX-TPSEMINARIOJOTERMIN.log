@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.4.19)  8 JUN 2025 17:59
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.4.19)  8 JUN 2025 19:47
  restricted system commands enabled.
 **pdf-TPSEMINARIOJOTERMIN.tex
 (./pdf-TPSEMINARIOJOTERMIN.tex
@@ -2997,15 +2997,7 @@ Package biblatex Info: Data encoding 'utf8' specified.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'pdf-TPSEMINARIOJOTERMIN.bbl' found.
 
-(./pdf-TPSEMINARIOJOTERMIN.bbl
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                @6968-DE2006
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-)
+(./pdf-TPSEMINARIOJOTERMIN.bbl)
 Package biblatex Info: Reference section=0 on input line 467.
 Package biblatex Info: Reference segment=0 on input line 467.
 
@@ -3139,11 +3131,6 @@ LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
 (Font)              scaled to size 8.25995pt on input line 530.
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
 (Font)              scaled to size 6.86723pt on input line 530.
-
-LaTeX Warning: Citation '@6968-DE2006' on page 3 undefined on input line 530.
-
-LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
-(Font)              scaled to size 10.61993pt on input line 530.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/it' will be
 (Font)              scaled to size 11.79993pt on input line 534.
 LaTeX Info: Redefining \. on input line 537.
@@ -3190,6 +3177,8 @@ LaTeX Info: Redefining \% on input line 619.
  [10]
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
 (Font)              scaled to size 7.84827pt on input line 621.
+LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
+(Font)              scaled to size 10.61993pt on input line 630.
 LaTeX Info: Redefining \. on input line 665.
 LaTeX Info: Redefining \% on input line 665.
 LaTeX Info: Redefining \. on input line 665.
@@ -4259,18 +4248,18 @@ Package logreq Info: Writing requests to 'pdf-TPSEMINARIOJOTERMIN.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 67109 strings out of 476553
- 6947515,2848258 words of node,token memory allocated
- 5666945 words of node memory still in use:
-   12064 hlist, 65 vlist, 3406 rule, 173 ins, 1 adjust, 76668 disc, 4691 local_p
-ar, 315 math, 91274 glue, 57461 kern, 10147 penalty, 958 margin_kern, 485141 gly
-ph, 100718 attribute, 9183 glue_spec, 14400 attribute_list, 79 write, 38 pdf_lit
-eral, 197 pdf_start_link, 200 pdf_end_link, 336 pdf_dest, 149 pdf_action, 3262 p
+ 67116 strings out of 476553
+ 6947440,2848258 words of node,token memory allocated
+ 5671421 words of node memory still in use:
+   12077 hlist, 65 vlist, 3406 rule, 173 ins, 1 adjust, 76698 disc, 4697 local_p
+ar, 315 math, 91331 glue, 57474 kern, 10162 penalty, 961 margin_kern, 485367 gly
+ph, 101313 attribute, 9199 glue_spec, 14485 attribute_list, 97 write, 38 pdf_lit
+eral, 213 pdf_start_link, 216 pdf_end_link, 336 pdf_dest, 159 pdf_action, 3298 p
 df_colorstack nodes
-   avail lists: 1:14,2:431,3:147,4:1208,5:107,6:44,7:2842,8:136,9:169,10:31,11:4
-46
- 87040 multiletter control sequences out of 65536+600000
- 99 fonts using 26923263 bytes
+   avail lists: 1:10,2:431,3:167,4:1183,5:109,6:45,7:2545,8:136,9:179,10:31,11:4
+15
+ 87046 multiletter control sequences out of 65536+600000
+ 99 fonts using 26923059 bytes
  117i,8n,123p,5940b,2668s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 warning  (pdf backend): unreferenced destination with name '_bookmark8'
@@ -4283,10 +4272,10 @@ ve/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondensed-Regular.otf></usr/sha
 re/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Bol
 d.otf></usr/share/texlive/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondense
 d-SemiBold.otf>
-Output written on pdf-TPSEMINARIOJOTERMIN.pdf (187 pages, 698946 bytes).
+Output written on pdf-TPSEMINARIOJOTERMIN.pdf (187 pages, 699793 bytes).
 
-PDF statistics: 1320 PDF objects out of 1440 (max. 8388607)
- 972 compressed objects within 10 object streams
- 357 named destinations out of 1000 (max. 131072)
+PDF statistics: 1331 PDF objects out of 1440 (max. 8388607)
+ 979 compressed objects within 10 object streams
+ 358 named destinations out of 1000 (max. 131072)
  333 words of extra memory for PDF output out of 10000 (max. 100000000)
 
